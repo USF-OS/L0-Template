@@ -1,11 +1,12 @@
 # Lab 0: Getting to Know You
 
 Welcome! I'm excited to have you in class and am looking forward to getting to
-know you over the course of the semester. This first lab assignment has two
+know you over the course of the semester. This first lab assignment has three
 goals:
 
 * For you to tell me a little bit more about yourself
 * Testing out the assignment submission process
+* Getting started on the course discussion board
 
 ## Part I: Introduction
 
