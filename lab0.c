@@ -91,10 +91,6 @@ int main(void)
         return EXIT_FAILURE;
     }
 
-    puts("");
-    puts("Thanks!");
-    puts("Looking forward to a great semester!");
-
     return 0;
 }
 
